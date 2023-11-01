@@ -1,0 +1,3 @@
+Hola a todos esta es una prueba de escritura desde python a un archivo txt
+ Siempre es una buena ocacion para estudiar python
+ agregando más texto al archivo de prueba

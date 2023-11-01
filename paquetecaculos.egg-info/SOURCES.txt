@@ -1,0 +1,10 @@
+setup.py
+calculos/__init__.py
+calculos/calculos_generales.py
+calculos/usos_modulos.py
+calculos/basicos/__init__.py
+calculos/basicos/operaciones_basicas.py
+paquetecaculos.egg-info/PKG-INFO
+paquetecaculos.egg-info/SOURCES.txt
+paquetecaculos.egg-info/dependency_links.txt
+paquetecaculos.egg-info/top_level.txt
